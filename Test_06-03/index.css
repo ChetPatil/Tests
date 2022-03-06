@@ -1,0 +1,36 @@
+body 
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(226, 216, 216); 
+}
+#main 
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container 
+{
+    width: 350px;
+    text-align: left;
+    margin: 50px;
+}
+button{
+    color: red;
+}
+  h2 
+  {
+    margin: 0;
+    color: aqua;
+  }
+  p
+  {
+    margin: 0;
+    color: whitesmoke;
+  }
+  img 
+  {
+    height: 300px;
+    width: 300px;
+  }
